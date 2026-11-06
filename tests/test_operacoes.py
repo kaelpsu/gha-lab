@@ -12,7 +12,7 @@ def test_subtrai():
 
 
 def test_divide():
-    assert divide(9, 3) == 6
+    assert divide(9, 3) == 3
 
 
 def test_divide_por_zero():
